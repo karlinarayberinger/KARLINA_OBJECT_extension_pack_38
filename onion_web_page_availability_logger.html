@@ -3,7 +3,7 @@
  * file: onion_web_page_availability_logger.html
  * type: Hyper-Text-Markup-Language
  * author: karbytes
- * date: 02_MAY_2025
+ * date: 05_MAY_2025
  * license: PUBLIC_DOMAIN
  */
  -->
@@ -63,7 +63,7 @@
   <p style="background:#00ffff">Polling: <code>http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/</code> every 60 seconds.</p>
 
   <!-- workaround to prevent the web page script from pausing due to the web page being treated as a background "process" -->
-  <p><em>(To prevent the script in this web page from haulting due to it not bieng the active application window on a mobile device, click the button below to start playing sound tracks with staggered play durations).</em></p>
+  <p><em>(To prevent the script in this web page from haulting due to it not being the active application window on a mobile device, click the button below to start playing sound tracks with staggered play durations).</em></p>
   <p><input type="button" id="keep_session_active_button" value="keep_session_active()" onclick="keep_session_active()"></p>    
 
   <!-- dynamic text updated once per minute of browser tab session duration -->
@@ -143,7 +143,10 @@
      * 
      * IMPORTANT UPDATE: The volume for the sound files has been turned up to 100% due to the fact
      * that the browser seems to treat the sound files like they are not being played if their volumes
-     * are muted.
+     * are muted. (Hence, the function being called by this wrapper function is not actually playing silent
+     * sound files in this configuration (but this application's source file can be downloaded and modified
+     * to use genuinely silent audio files (i.e. sound files which consist of only silence even when their volumes
+     * are turned up to maximum volume))).a
      */
     function keep_session_active() {
       startPlayingSilentSoundTracks();
