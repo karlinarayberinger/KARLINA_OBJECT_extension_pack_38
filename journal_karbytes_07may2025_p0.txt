@@ -20,7 +20,7 @@ X can be conceptually modeled as an entirely self-aware array whose elements are
 
 X[i] is a sub-array of X.
 
-X[i] is a simulated universe which encompasses the spatially and temorally localized perspectives of exactly one information processing agent, X[i].A.
+X[i] is a simulated universe which encompasses the spatially and temporally localized perspectives of exactly one information processing agent, X[i].A.
 
 X[i].A experiences the passage of time while simultaneously possibly observing the emergence and disappearance of qualia* (within the context of X[i].A's respective simulated universe).
 
