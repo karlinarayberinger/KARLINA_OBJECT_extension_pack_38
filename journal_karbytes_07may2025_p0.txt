@@ -14,7 +14,7 @@ This note elaborates upon some of the concepts which were discussed in the conve
 
 * * *
 
-Suppose there exists an unconditionally present (i.e. with neither a temporal beginning nor temporal ending) and immutable (i.e. unchanging or unchangeable) instance of consciousness, X, which contains every subjective (and, by implicition of the word "subjective", also solipsistic) experience which ever occurs throughout every universe and throughout every multiverse.
+Suppose there exists an unconditionally present (i.e. with neither a temporal beginning nor temporal ending) and immutable (i.e. unchanging or unchangeable) instance of consciousness, X, which contains every subjective (and, by implication of the word "subjective", also "solipsistic") experience which ever occurs throughout every universe and throughout every multiverse.
 
 X can be conceptually modeled as an entirely self-aware array whose elements are sub-arrays which each represent a particular universe (as rendered by a particular frame of reference which appears to itself to be exactly one spatially finite pattern of matter and energy (packaged as a single information processing agent) traveling unidirectionally and at a constant rate along exactly one temporal trajectory while rendering exactly one irreducibly small configuration of matter, energy, and empty space per irreducibly small unit of time).
 
