@@ -20,7 +20,7 @@ X[i] is a sub-array of X.
 
 X[i] is a simulated universe which encompasses the spatially and temorally localized perspectives of exactly one information processing agent, X[i].A.
 
-X[i].A experiences the passage of time while simultaneously possibly observing the emergence and dissappearance of qualia (within the context of X[i].A's respective simulated universe).
+X[i].A experiences the passage of time while simultaneously possibly observing the emergence and disappearance of qualia (within the context of X[i].A's respective simulated universe).
 
 X[i][k] is a particular irreducibly small snapshot of X[i].A's rendered experiences occurring at some point, k, within X[i]'s timeline.
 
