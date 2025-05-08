@@ -1,7 +1,7 @@
 /**
  * file: journal_karbytes_07may2025_p0.txt
  * type: plain-text
- * date: 07_MAY_2025
+ * date: 08_MAY_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -24,7 +24,9 @@ X[i].A experiences the passage of time while simultaneously possibly observing t
 
 X[i][k] is a particular irreducibly small snapshot of X[i].A's rendered experiences occurring at some point, k, within X[i]'s timeline.
 
-X is simultaneously and unconditionally aware of every element of X[i] while X[i].A is only aware of exactly one element of X[i] at any point within X[i]'s timeliness.
+X is simultaneously and unconditionally aware of every element of X[i] while X[i].A is only aware of exactly one element of X[i] at any point within X[i]'s timeline.
+
+X[i].A is only aware of X[i][k] at the point in X[i]'s timeline labeled k (where k is a variable representing any arbitrary point along that timeline).
 
 X is simultaneously and unconditionally aware of every element of every sub-array of X.
  
