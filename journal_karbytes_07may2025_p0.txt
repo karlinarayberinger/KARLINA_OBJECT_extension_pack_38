@@ -26,7 +26,7 @@ X[i][k] is a particular irreducibly small snapshot of X[i].A's rendered experien
 
 X is simultaneously and unconditionally aware of every element of X[i] while X[i].A is only aware of exactly one element of X[i] at any point within X[i]'s timeline.
 
-X[i].A is only aware of X[i][k] at the point in X[i]'s timeline labeled k (where k is a variable representing any arbitrary point along that timeline).
+X[i].A is only aware of X[i][k] at the point, k, in X[i]'s timeline (where k is a variable representing any arbitrary point along X[i]'s timeline).
 
 X is simultaneously and unconditionally aware of every element of every sub-array of X.
  
