@@ -1,7 +1,7 @@
 /**
  * file: journal_karbytes_07may2025_p0.txt
  * type: plain-text
- * date: 08_MAY_2025
+ * date: 09_MAY_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -32,3 +32,12 @@ X[i].A is only aware of X[i][k] at the point, k, in X[i]'s timeline (where k is 
 
 X is simultaneously and unconditionally aware of every element of every sub-array of X.
  
+* * *
+
+Instances of Pure Nothingness Within X:
+
+An instance of X[i][k] can take the “form” of pure nothingness.
+
+An instance of X[i] can be a homogeneous array whose elements each take the “form” of pure nothingness.
+
+Zero, one, some arbitrary natural number, or infinitely many instances of X[i] (where each element of X[i] takes the “form” of pure nothingness) can exist within X.
